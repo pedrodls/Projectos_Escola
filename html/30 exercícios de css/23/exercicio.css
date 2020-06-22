@@ -1,0 +1,26 @@
+body{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+table,td{
+    font-size: 100px;
+    color: rgb(243, 186, 186);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    border-spacing: 1px;
+}
+
+#td2{
+    color: rgb(0, 119, 255);
+    background-color: rgb(0, 119, 255) ;
+    border: 2px solid;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    border-radius: 200%;
+}
+#td1{
+    font-size: 160px;
+}

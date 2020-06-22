@@ -1,0 +1,45 @@
+input, th{
+    text-align: right;
+    margin:20px 0px 0px 0px;
+    height: 9px;
+    outline: none;
+    border: none;
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+input[type="Button"]{
+    text-align: center;
+    margin:0px;
+    height: 18px;
+    outline: none;
+    border: none;
+    width: 28px;
+    background-color: rgba(169, 169, 169, 0.034);
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+body{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+table{
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 300px;
+    width: 300px;
+}
+td{
+    background-color: rgba(169, 169, 169, 0.644);
+}
+.operadores{
+    background-color: rgba(214, 207, 207, 0.863);
+
+}
+fieldset{
+    width: 300px;
+    background-color: rgb(223, 219, 219);
+}

@@ -1,0 +1,19 @@
+.aluno{
+    color: #000000;
+    background-color: rgb(247, 189, 189);
+}
+tr, td{
+    text-align: center;
+    font-style: italic;
+}
+.amarela{
+    color: rgb(113, 179, 15);
+    background-color: #ffff00;
+}
+.final{
+    background-color: #ff0000;
+    color: #111111;
+}
+th,tfoot{
+    color: #0000ff;
+}

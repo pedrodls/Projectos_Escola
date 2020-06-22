@@ -1,0 +1,16 @@
+span{
+    float: left;
+    color: yellow;
+    background-color: black;
+    text-transform: uppercase;
+    font-size: 50px ;
+    font-weight: bold;
+    border-bottom: 10px dotted yellow;
+    margin-top: -3px;
+}
+div{
+    background-color: greenyellow;
+    width: 335px;
+    padding-bottom: 220px;
+    border: 4px dotted yellow;
+}

@@ -1,0 +1,14 @@
+#p1{
+    width: 60px;
+    height: 100px;
+    padding: 50px;
+    background-color: orangered;
+    border: 50px dotted yellow;
+}
+#p2{
+    width: 60px;
+    height: 100px;
+    padding: 50px;
+    background-color: rgba(55, 143, 243, 0.815);
+    border: 40px dashed yellow;
+}

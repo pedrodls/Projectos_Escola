@@ -1,0 +1,40 @@
+fieldset{
+    position: absolute;
+    float: left;
+    margin-left: 455px;
+    margin-top: -630px;
+    width: 300px;
+    background: rgba(0, 0, 0, 0.411);
+
+}
+span{
+    font-size: 13px;
+}
+#spn2{
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+#spn3{
+    text-align: center;
+    background-color: tomato;
+    width: 0px;
+
+}
+body{
+    margin: 0px;
+    float: center;
+}
+td{
+    color: rgb(215, 237, 243);   
+}
+tfoot{
+    text-align: center;
+}
+
+table{
+    border-spacing: 5px ;
+}
+img{
+    width: 100%;
+}

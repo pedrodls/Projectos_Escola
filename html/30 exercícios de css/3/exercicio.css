@@ -1,0 +1,39 @@
+hr{
+  
+    background-color: black;
+    padding-bottom: 3px;
+    border: none;
+}
+
+header{
+    margin: 5px;
+}
+
+table,td,th{
+    margin: 5px;
+    border: 1px solid rgb(48, 48, 48);
+    border-spacing: 0px;
+    text-align: center;
+    
+}
+
+h3{
+    margin: 5px;
+    color: red;
+}
+
+#hr2{
+    background-color:red;
+}
+
+section{
+    width: 50%;
+    background-color: rgb(245, 228, 206);
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding: 10px;
+}

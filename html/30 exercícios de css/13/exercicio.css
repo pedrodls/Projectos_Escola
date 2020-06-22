@@ -1,0 +1,26 @@
+div{
+    background-color: rgba(0, 0, 0, 0.212);
+    margin: 0px;
+    padding: 10px;
+    width: 15%;
+}
+#sp1{
+    border-radius: 5px 5px 00px 0px;
+    padding: 5px;
+    margin-left: 7px;
+    margin-right: 5px;
+    border: 1px solid white;
+    background-color: darkgrey;
+}
+#red{
+    color: red;
+    font-size: 40px;
+}
+p{
+    margin-left: 90px;
+    color: white;
+    
+}
+*{
+    font-size: 15px;
+}

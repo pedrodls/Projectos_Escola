@@ -1,0 +1,65 @@
+body{
+    color: white;
+    background:linear-gradient( rgb(102, 44, 102), rgb(192, 97, 192));
+    min-height: 100vh;
+}
+
+.conteiner{
+    display: flex;
+    justify-content: right;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    padding-left: 90px;
+    margin: 0px 650px 0px 300px;
+
+}
+.conteiner2
+{
+    float: right;
+    padding:0px 0px 0px 10px;
+    background-color:rgb(18, 19, 13);
+    
+}
+span{
+    font-size: 15px;
+}
+#txt1,#txt2,#txt3{
+    border:none ;
+    border-bottom: 1px solid white;
+    margin-right: 9px;
+    width: 300px;
+    
+}
+#txt3{
+    width: 614px;
+}
+#txt4{
+    width: 609px;
+}
+#spn2{
+    margin-left: 39%;
+}
+input, textarea{
+    background-color: transparent;
+
+}
+button{
+    
+    width: 120px;
+    font-size: 14px;
+    padding: 0px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: rgb(0, 195, 255);
+    color: white;
+    border: none;
+}
+
+img{
+    position: absolute;
+    width: 90px;
+    height: 60px;
+    margin: 0px 0px 0px 300px;
+
+
+}

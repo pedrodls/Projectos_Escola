@@ -1,0 +1,17 @@
+div{
+  
+    width: 10px;
+    height: 50%;
+    background-color: yellow;
+    padding: 50px;
+    border-left: 300px solid red;
+    border-right: 300px solid red;
+    border-bottom: 100px solid red;
+    border-top: 100px solid transparent;
+
+
+}
+
+body{
+    margin: 0px;
+}

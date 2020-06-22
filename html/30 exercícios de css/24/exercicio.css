@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+    border: 2px solid yellow;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+hr{
+    float: left;
+    position:absolute;
+    transform: rotate(37grad);
+    height: 410px;
+    margin-top:300px;
+    border: 1px solid red;
+    margin-left: 1px;
+    
+}
+.spn1{
+    float: center;
+    position: absolute;
+    color: red;
+    margin-top: 50px;
+    margin-left: -16px;
+    border: 1px solid;
+    padding: 5px;
+
+}
+.spn2{
+    float: center;
+    position: absolute;
+    color: red;
+    margin-top: 150px;
+    margin-left: -10px;
+    border: 1px solid darkgray;
+    padding: 5px;
+
+}
+.spn3{
+    float: center;
+    position: absolute;
+    color: red;
+    margin-top: 790px;
+    margin-left: -10px;
+    border: 1px solid darkgray;
+    padding: 5px;
+
+}
+fieldset{
+    margin-top: 300px;
+    border-color: yellow;
+    margin-bottom: 200px;
+}
+table,td{
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid yellow;
+    margin: 10px;
+    border-collapse: collapse;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+#td1{
+    color: rgb(8, 102, 8);
+}
+#td2{
+    color: white;
+}
+.brd1{
+    border-left-color:transparent;
+    border-top-color: transparent;
+}
+.brd2{
+     border-top-color: transparent;
+}
+.brd3{
+    border-right-color:transparent;
+    border-top-color: transparent;
+}
+.brd4{
+    border-left-color: transparent;
+}
+.brd6{
+    border-right-color: transparent;
+
+}
+.brd7{
+    border-left-color: transparent;
+    border-bottom-color: transparent;
+}
+.brd8{
+    border-bottom-color: transparent;
+}
+.brd9{
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\bin\Debug\Agenda Telefónica.exe.config
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\bin\Debug\Agenda Telefónica.exe
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\bin\Debug\Agenda Telefónica.pdb
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\bin\Debug\MetroFramework.dll
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\obj\Debug\Agenda Telefónica.csprojAssemblyReference.cache
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\obj\Debug\Agenda_Telefónica.Form1.resources
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\obj\Debug\Agenda_Telefónica.Properties.Resources.resources
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\obj\Debug\Agenda Telefónica.csproj.GenerateResource.cache
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\obj\Debug\Agenda Telefónica.csproj.CopyComplete
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\obj\Debug\Agenda Telefónica.exe
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\obj\Debug\Agenda Telefónica.pdb
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\obj\Debug\Agenda_Telefónica.Contactos.resources
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\Agenda Telefónica\obj\Debug\Agenda_Telefónica.Principal.resources

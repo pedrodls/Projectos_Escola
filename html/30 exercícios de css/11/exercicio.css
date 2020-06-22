@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+}
+hr{
+    margin: 0px;
+}
+
+div{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 25%;
+    height: 25%;
+    background-color: burlywood;
+    margin-left: 0px;
+}
+li:hover{
+    transition: 0.5s;
+    translate: (-50%);
+    background-color: darkgray;
+
+}

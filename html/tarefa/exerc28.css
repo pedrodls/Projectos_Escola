@@ -1,0 +1,35 @@
+article{
+
+    margin-left: 100px;
+}
+h1{
+    color: lime;
+
+}
+textarea{
+    margin-left: 7px;
+}
+label{
+    margin-top: 0;
+}
+input{
+    width: 60%;
+    margin-left: 12px;
+}
+#txt1{
+    width: 60%;
+    margin-left: 40px;
+}
+#txt2{
+    width: 60%;
+    margin-left: 35px;
+}
+
+#txt3{
+    width: 60%;
+    margin-left: 26px;
+}
+#msg{
+    text-align: right;
+}
+

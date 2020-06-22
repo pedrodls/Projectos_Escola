@@ -1,0 +1,17 @@
+section{
+    border: 1px solid black;
+    width: 25%;
+    margin-top: 0px;
+}
+#btn{
+    margin-left: 259px;
+}
+#td1{
+    background-color: cadetblue;
+}
+h1{
+    background-color: rgb(5, 138, 161);
+    color: #ffffff;
+    margin-bottom: 0px ;
+    margin-top: 0px;
+}

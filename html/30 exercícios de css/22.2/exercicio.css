@@ -1,0 +1,50 @@
+th{
+    text-align: right;
+    padding: 20px;
+    margin:70px 0px 0px 0px;
+    height: 9px;
+    outline: none;
+    border: none;
+    width: 300px;
+    background-color:rgba(158, 248, 147, 0.747);
+    color: white;
+}
+body{
+
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+table{
+    text-align: center;
+    background-color: rgb(12, 20, 20);
+    height: 300px;
+    width: 300px;
+    border-spacing: 10px;
+    border-radius: 7px;
+}
+td{
+    background-color: black;
+    border-radius: 7px;
+    text-align: center;
+    border: none;
+    
+    
+}
+.operadores{
+    color: black;
+
+}
+fieldset{
+    width: 300px;
+    background-color: rgb(230, 178, 101);
+}
+button{
+    
+    background-color: transparent;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    width: 10px;
+}

@@ -1,0 +1,41 @@
+header{
+    background-color: rgba(10, 236, 179, 0.726);
+    padding: 3px;
+}
+#spn{
+    float: right;
+    font-size: 20px;
+}
+*{
+    color: black;
+    text-decoration: none;
+    margin: 0px;
+}
+img{
+    width: 100%;
+}
+section{
+    margin: 0px;
+}
+input{
+    outline-color: none;
+    border-radius: 10px;
+    background: transparent;
+    border-color: wheat;
+    margin: 0px;
+}
+table{
+    float: right;
+    margin: 0px;
+}
+span{
+    font-size: 50px;
+    margin-left: 30px;
+}
+body{
+    margin: 0px;
+    background: linear-gradient(rgba(0, 183, 255, 0.877), rgba(9, 176, 206, 0.685), rgba(0, 132, 255, 0.356));
+    height: 100vh;
+    width: 100;
+
+}

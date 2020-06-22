@@ -1,0 +1,18 @@
+table{
+    border: 2px solid rgb(203, 204, 204);
+    background-color: whitesmoke;
+}
+th{
+    background-color: rgb(110, 110, 110);
+    color: white;
+}
+.america{
+        background-color:rgb(107, 164, 180);
+}
+.NorteSul{
+    border: none;
+}
+.NorteSul2{
+    text-align: center;
+    background-color: rgb(201, 198, 198);
+}

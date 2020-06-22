@@ -1,0 +1,24 @@
+body{
+    background-color: darkgray;
+}
+h1{
+    color: blue;
+}
+article{
+    text-align: center;
+}
+img{
+    width: 500px;
+}
+
+hr{
+    border: none;
+    height: 4px;
+    background-color: black;
+}
+hr.hr2{
+    border: none;
+    height: 4px;
+    background-color: rgba(247, 242, 242, 0.685);
+}
+

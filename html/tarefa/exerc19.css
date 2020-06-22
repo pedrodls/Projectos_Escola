@@ -1,0 +1,26 @@
+
+table{
+    border: none;
+}
+th{
+    background-color:  rgb(52, 184, 245);
+}
+.th1{
+    color: white;
+    background-color: rgb(21, 74, 134);
+}
+tbody{
+    background-color: none;
+    border: none;
+}
+
+.pos{
+    background-color: darkgray;
+    text-align: center;
+}
+
+tr,td{
+    background-color: rgb(144, 220, 255);;
+    border: none;
+    
+}

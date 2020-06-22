@@ -1,0 +1,45 @@
+c:\users\pedro sousa\documents\visual studio 2015\Projects\Projecto_Calculadora\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe.config
+c:\users\pedro sousa\documents\visual studio 2015\Projects\Projecto_Calculadora\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe
+c:\users\pedro sousa\documents\visual studio 2015\Projects\Projecto_Calculadora\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.pdb
+c:\users\pedro sousa\documents\visual studio 2015\Projects\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csprojResolveAssemblyReference.cache
+c:\users\pedro sousa\documents\visual studio 2015\Projects\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Form1.resources
+c:\users\pedro sousa\documents\visual studio 2015\Projects\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Properties.Resources.resources
+c:\users\pedro sousa\documents\visual studio 2015\Projects\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csproj.GenerateResource.Cache
+c:\users\pedro sousa\documents\visual studio 2015\Projects\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.exe
+c:\users\pedro sousa\documents\visual studio 2015\Projects\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.pdb
+C:\Users\us\Documents\Projecto_Calculadora\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe.config
+C:\Users\us\Documents\Projecto_Calculadora\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe
+C:\Users\us\Documents\Projecto_Calculadora\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.pdb
+C:\Users\us\Documents\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csprojAssemblyReference.cache
+C:\Users\us\Documents\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Form1.resources
+C:\Users\us\Documents\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Properties.Resources.resources
+C:\Users\us\Documents\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csproj.GenerateResource.cache
+C:\Users\us\Documents\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.exe
+C:\Users\us\Documents\Projecto_Calculadora\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.pdb
+D:\Projecto_Calculadora-2\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe.config
+D:\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.exe
+D:\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.pdb
+D:\Projecto_Calculadora-2\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe
+D:\Projecto_Calculadora-2\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.pdb
+D:\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Form1.resources
+D:\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Properties.Resources.resources
+D:\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csproj.GenerateResource.Cache
+D:\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csprojAssemblyReference.cache
+E:\web\IPIL-TLP\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csprojAssemblyReference.cache
+E:\web\IPIL-TLP\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Form1.resources
+E:\web\IPIL-TLP\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Properties.Resources.resources
+E:\web\IPIL-TLP\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csproj.GenerateResource.cache
+E:\web\IPIL-TLP\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.exe
+E:\web\IPIL-TLP\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.pdb
+E:\web\IPIL-TLP\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe.config
+E:\web\IPIL-TLP\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe
+E:\web\IPIL-TLP\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.pdb
+C:\Users\Pedro Sousa\Documents\Escola\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe.config
+C:\Users\Pedro Sousa\Documents\Escola\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.exe
+C:\Users\Pedro Sousa\Documents\Escola\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\bin\Debug\Projecto_Calculadora.pdb
+C:\Users\Pedro Sousa\Documents\Escola\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csprojAssemblyReference.cache
+C:\Users\Pedro Sousa\Documents\Escola\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Form1.resources
+C:\Users\Pedro Sousa\Documents\Escola\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.Properties.Resources.resources
+C:\Users\Pedro Sousa\Documents\Escola\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.csproj.GenerateResource.cache
+C:\Users\Pedro Sousa\Documents\Escola\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.exe
+C:\Users\Pedro Sousa\Documents\Escola\TLP\c#\Projecto_Calculadora-2\Projecto_Calculadora\obj\Debug\Projecto_Calculadora.pdb

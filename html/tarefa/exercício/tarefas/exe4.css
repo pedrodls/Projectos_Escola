@@ -1,0 +1,21 @@
+table{
+    border: 1px solid black;
+}
+.cont
+{
+    border: 0px;
+    background-color: rgba(160, 160, 160, 0.5);
+    border-width: 0px;
+}
+.cont2{
+    background-color: darkgrey;
+    text-align: center;
+}
+.alin{
+    text-align: center;
+    color: white;
+    background-color: darkgrey;
+}
+.bagrd{
+    background-color: darkcyan;
+}

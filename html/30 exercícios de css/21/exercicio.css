@@ -1,0 +1,27 @@
+article{
+    margin:10px 250px 40px 250px;
+}
+header{
+    background-color: green;
+    padding: 7px;
+    color: white;
+    text-align: right;
+}
+#hd2{
+    background-color: rgb(112, 221, 112);
+    color: rgb(1, 77, 1);
+   
+    
+}
+body{
+    margin:0px;
+}
+#spn2{
+    color: rgb(129, 129, 255);
+}
+footer{
+    text-align: center;
+    background-color:rgb(4, 48, 4);
+    padding: 0px;
+    color: white;
+}

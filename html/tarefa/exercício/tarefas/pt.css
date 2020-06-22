@@ -1,0 +1,22 @@
+td{
+    padding: 40px;
+}
+#td1{
+    background-color: red;
+}
+#td2{
+    background-color: blue;
+}
+#td3{
+    background-color: yellow;
+}
+#td4{
+    background-color: green;
+}
+body{
+    text-align: center;
+    color: transparent;
+}
+table{
+    border-spacing: 0px;    
+}

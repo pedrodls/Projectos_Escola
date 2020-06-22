@@ -1,0 +1,95 @@
+#div1{
+    border: 2px solid tomato;
+    margin: 0px;
+}
+
+#div2{
+    margin: 0px;
+    color: black;
+    background-color: rgb(236, 228, 228);
+    
+}
+#img1{
+    position:absolute;
+   float: left;
+   width: 30px;
+}
+img{
+    width: 90px;
+    border-radius: 15%;
+    margin-left: 190px;
+    margin-top: 10px;
+}
+#img2{
+    width: 60%;
+    margin-left: 180px;
+}
+section{
+    background-color: white;
+    margin: 0px 200px 0px 200px;
+}
+hr{
+    margin:0px;
+    border:1px solid tomato;
+    background-color: tomato;
+    padding: 10px;
+    margin-top: 20px;
+}
+body{
+    color: white;
+    background-color:darkgray;
+    margin: 0px;
+}
+p{
+    background-color: black;
+    padding: 40px 0px 0px 10px;
+    margin: 0px;
+}
+#hd1{
+    color: black;
+    background-color: white;
+    padding: 5px;
+}
+span{
+    margin-left: 20px;
+    font-size: 40px;
+    color: tomato;
+}
+table{
+    margin-left: 300px;
+}
+a{
+    color: darkgray;
+    text-decoration: none;
+}
+.spn2{
+    margin: 0px;
+    color: darkgray;
+}
+#spn3{
+    color: black;
+    font-size: 12px
+}
+#table2{
+    padding: 0px;
+    margin: 0px;
+    margin-left:170px ;
+}
+label{
+    color: darkgray;
+    font-size: 10px;
+}
+#ftSection{
+    background-color: rgb(238, 238, 238);
+    margin: 0px;
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: black;
+}
+footer{
+    background-color: black;
+    color: black;
+    
+}

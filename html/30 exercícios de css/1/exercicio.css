@@ -1,0 +1,28 @@
+div{
+    padding: 40px;
+    width: 5%;
+}
+body{
+    margin: 0%;
+    scrollbar-width: 1px;
+}
+#red{
+    float: top;
+    background-color: #ff0000;
+}
+#yellow{
+    float: right;
+    margin-top: -100px;
+    background-color:#ffff00;
+}
+#green{
+  
+    margin-top: 430px;
+    background-color: #008000;
+
+}
+#azul{
+    margin-top: -120px;
+    float: right;
+    background-color: #0000ff;
+}

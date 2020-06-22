@@ -1,0 +1,12 @@
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\bin\Debug\JogoStop.exe.config
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\bin\Debug\JogoStop.exe
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\bin\Debug\JogoStop.pdb
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\obj\Debug\JogoStop.csprojAssemblyReference.cache
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\obj\Debug\JogoStop.frmApresentacao.resources
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\obj\Debug\JogoStop.Properties.Resources.resources
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\obj\Debug\JogoStop.csproj.GenerateResource.cache
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\obj\Debug\JogoStop.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\obj\Debug\JogoStop.csproj.CopyComplete
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\obj\Debug\JogoStop.exe
+C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\JogoStop\obj\Debug\JogoStop.pdb

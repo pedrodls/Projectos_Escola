@@ -1,0 +1,20 @@
+table,td,th{
+     border: 1px dashed black;
+     color: red;
+}
+body{
+    text-align: center;
+}
+span{
+    font-size: 30px;
+}
+th{
+    color:rgba(141, 65, 3, 0.986);
+    font-weight: bold;
+}
+#th1{
+    background-color: darkgray;
+}
+.azul{
+    color: blue;
+}

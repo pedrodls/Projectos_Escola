@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(45grad, rgb(167, 4, 104), rgb(143, 137, 55), rgb(141, 68, 80));
+    height: 100vh;
+}
+#login{
+    background-color: pink;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+fieldset{
+    width: 30%;
+    border-radius: 10px;
+    float: center;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+input{
+    width: 300px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+
+    
+}
+input[type="checkbox"]{
+    width:40px;
+    padding: 0px;
+    margin: 0px;
+    border-radius:3px;
+}
+
+::placeholder{
+    color: rgb(226, 132, 132);
+}
+table{
+    border:none;
+}
+#spn1{
+    float: left;
+}
+#spn2{
+    float: right;
+}

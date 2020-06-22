@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+img{
+
+    width: 200px;
+    height: 100px;
+}
+.conteiner{
+    text-align: center;
+    display: inline-flex;
+    padding-left: 5px;
+}

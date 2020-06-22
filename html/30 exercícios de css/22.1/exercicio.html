@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="exercicio.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+</head>
+<body>
+    <nav type="navbar" class="navbar navbar-brand"></nav>
+    <fieldset>
+        <table border="1">
+            <tr>
+                <th colspan="4"><input type="text" value="0" name="tela"></th>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color: rgba(250, 50, 50, 0.726);"><input type="button" value="AC"></td>
+                <td class="operadores"><input type="button" value="/"></td>
+                <td class="operadores"><input type="button" value="x"></td>
+                <td><button type="button" class="btn btn-primary">primary</button></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="7" onclick="calc(7)"></td>
+                <td><input type="button" value="8"></td>
+                <td><input type="button" value="9"></td>
+                <td class="operadores" ><input type="button" value="-"></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="4"></td>
+                <td><input type="button" value="5"></td>
+                <td><input type="button" value="6"></td>
+                <td class="operadores"><input type="button" value="+"></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="1"></td>
+                <td><input type="button" value="2"></td>
+                <td><input type="button" value="3"></td>
+                <td rowspan="2" style="background-color: royalblue;"><input type="button" value="="></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="button" value="0"></td>
+                <td><input type="button" value="."></td>
+            </tr>
+        </table>
+    </fieldset>
+</body>
+</html>

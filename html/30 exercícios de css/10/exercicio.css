@@ -1,0 +1,17 @@
+div{
+  
+    width: 1%;
+    height: 100%;
+    background-color: blue;
+    padding: 5px 0px 150px 0px;
+    border-left: 60px solid red;
+    border-right: 60px solid red;
+    border-bottom: 100px solid transparent;
+    border-top: 60px solid red;
+
+
+}
+
+body{
+    margin: 0px;
+}

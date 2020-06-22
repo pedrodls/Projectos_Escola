@@ -1,0 +1,14 @@
+p{
+    margin-left: 5%;
+}
+#hr1{
+    margin-right: 50%;
+}
+#hr2{
+    margin-right: 80%;
+}
+hr{
+    border: none;
+    height: 5px;
+    background-color: darkgray;
+}
